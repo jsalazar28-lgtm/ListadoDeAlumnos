@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Control de Alumnos ✨</string>
+    <string name="title_alumnos">Lista de Alumnos 🌸</string>
+    <string name="add_alumno">Agregar Alumno 💕</string>
+    <string name="edit_alumno">Editar Alumno ✏️</string>
+    <string name="delete_alumno">Eliminar Alumno 🗑️</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="cuenta">No. de Cuenta</string>
+    <string name="cuenta_format">Cuenta: %1$s</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="imagen_url">URL de Imagen / Foto</string>
+    <string name="guardar">Guardar ✨</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirm_delete">¿Estás segura(o) de eliminar a este alumno?</string>
+    <string name="no_alumnos">No hay alumnos registrados aún 💕\n¡Haz clic en + para agregar uno!</string>
+</resources>

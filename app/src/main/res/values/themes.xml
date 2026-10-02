@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListadoDeAlumnos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/pink_stroke</item>
+        <item name="colorOnPrimaryContainer">@color/text_dark</item>
+        <item name="colorSecondary">@color/purple_soft</item>
+        <item name="android:statusBarColor">@color/pink_primary</item>
+        <item name="android:windowBackground">@color/pink_light_bg</item>
+    </style>
+
+    <style name="Theme.ListadoDeAlumnos" parent="Base.Theme.ListadoDeAlumnos" />
+</resources>
